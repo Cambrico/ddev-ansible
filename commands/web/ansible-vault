@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ddev-generated
-## Description: Run `ansible-vault` inside the web container.
-## Usage: ddev ansible-vault [options]
+## Description: Run `ansible-vault` inside the web container
+## Usage: ansible-vault [options]
 
 ansible-vault "$@"

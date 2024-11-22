@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ddev-generated
-## Description: Run `ansible-playbook` inside the web container.
-## Usage: ddev ansible-playbook [options]
+## Description: Run `ansible-playbook` inside the web container
+## Usage: ansible-playbook [options]
 
 ansible-playbook "$@"

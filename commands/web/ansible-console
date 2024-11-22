@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ddev-generated
-## Description: Run `ansible-console` within the DDEV web container.
-## Usage: ddev ansible-console [options]
+## Description: Run `ansible-console` within the DDEV web container
+## Usage: ansible-console [options]
 
 ansible-console "$@"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ddev-generated
-## Description: Run `ansible-community` inside the web container.
-## Usage: ddev ansible-community [options]
+## Description: Run `ansible-config` inside the web container
+## Usage: ansible-config [options]
 
-ansible-community "$@"
+ansible-config "$@"
