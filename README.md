@@ -33,4 +33,4 @@ The following commands are available:
 | `ansible-test`       | `ddev ansible-test [options]`       |
 | `ansible-vault`      | `ddev ansible-vault [options]`      |
 
-**Contributed and maintained by `@facine`**
+**Contributed and maintained by [@cambrico](https://github.com/cambrico)**
