@@ -1,11 +1,11 @@
 [![tests](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml/badge.svg)](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
 
-# ddev-ansible
+# DDEV Ansible
 
 * [What is ddev-ansible?](#what-is-ddev-ansible)
 * [Commands](#commands)
 
-## What is ddev-ansible?
+## What is DDEV Ansible?
 
 This repository provides an add-on for [DDEV](https://ddev.readthedocs.io)
 to integrate Ansible into your DDEV projects.
