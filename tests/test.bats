@@ -47,8 +47,8 @@ teardown() {
 @test "install from release" {
   set -eu -o pipefail
   cd ${TESTDIR} || ( printf "unable to cd to ${TESTDIR}\n" && exit 1 )
-  echo "# ddev add-on get facine/ddev-ansible with project ${PROJNAME} in ${TESTDIR} ($(pwd))" >&3
-  ddev add-on get facine/ddev-ansible
+  echo "# ddev add-on get cambrico/ddev-ansible with project ${PROJNAME} in ${TESTDIR} ($(pwd))" >&3
+  ddev add-on get cambrico/ddev-ansible
   ddev restart >/dev/null
   health_checks
 }

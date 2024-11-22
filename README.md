@@ -1,4 +1,4 @@
-[![tests](https://github.com/facine/ddev-ansible/actions/workflows/tests.yml/badge.svg)](https://github.com/facine/ddev-ansible/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
+[![tests](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml/badge.svg)](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
 
 # ddev-ansible
 
@@ -10,7 +10,7 @@
 This repository provides an add-on for [DDEV](https://ddev.readthedocs.io)
 to integrate Ansible into your DDEV projects.
 
-In DDEV addons can be installed from the command line using the `ddev add-on get` command (or `ddev get` for versions of DDEV prior to v1.23.5), for example, `ddev add-on get facine/ddev-ansible`.
+In DDEV addons can be installed from the command line using the `ddev add-on get` command (or `ddev get` for versions of DDEV prior to v1.23.5), for example, `ddev add-on get cambrico/ddev-ansible`.
 
 ### Dependencies
 Make sure you have [DDEV v1.23.3+ installed](https://ddev.readthedocs.io/en/latest/users/install/ddev-installation/)
