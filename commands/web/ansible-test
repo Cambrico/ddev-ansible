@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible-test` inside the web container.
+## Usage: ddev ansible-test [options]
+
+ansible-test "$@"

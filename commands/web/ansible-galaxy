@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible-galaxy` inside the web container.
+## Usage: ddev ansible-galaxy [options]
+
+ansible-galaxy "$@"

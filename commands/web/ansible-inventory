@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible-inventory` inside the web container.
+## Usage: ddev ansible-inventory [options]
+
+ansible-inventory "$@"

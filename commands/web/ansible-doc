@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible-doc` inside the web container.
+## Usage: ddev ansible-doc [options]
+
+ansible-doc "$@"

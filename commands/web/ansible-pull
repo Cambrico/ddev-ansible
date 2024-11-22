@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible-pull` inside the web container.
+## Usage: ddev ansible-pull [options]
+
+ansible-pull "$@"

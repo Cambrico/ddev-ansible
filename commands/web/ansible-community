@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#ddev-generated
+## Description: Run `ansible` inside the web container.
+## Usage: ansible [options]
+
+ansible "$@"
