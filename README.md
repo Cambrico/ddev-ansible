@@ -1,7 +1,7 @@
 [![add-on registry](https://img.shields.io/badge/DDEV-Add--on_Registry-blue)](https://addons.ddev.com)
-[![tests](https://github.com/ddev/ddev-ansible/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/ddev/ddev-ansible/actions/workflows/tests.yml?query=branch%3Amain)
-[![last commit](https://img.shields.io/github/last-commit/ddev/ddev-ansible)](https://github.com/ddev/ddev-ansible/commits)
-[![release](https://img.shields.io/github/v/release/ddev/ddev-ansible)](https://github.com/ddev/ddev-ansible/releases/latest)
+[![tests](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/cambrico/ddev-ansible/actions/workflows/tests.yml?query=branch%3Amain)
+[![last commit](https://img.shields.io/github/last-commit/cambrico/ddev-ansible)](https://github.com/cambrico/ddev-ansible/commits)
+[![release](https://img.shields.io/github/v/release/cambrico/ddev-ansible)](https://github.com/cambrico/ddev-ansible/releases/latest)
 
 # DDEV Ansible
 
