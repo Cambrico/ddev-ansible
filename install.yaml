@@ -1,6 +1,7 @@
 name: ddev-ansible
 
 project_files:
+  - config.ansible.yaml
   - commands/web/ansible
   - commands/web/ansible-community
   - commands/web/ansible-config
@@ -13,7 +14,8 @@ project_files:
   - commands/web/ansible-pull
   - commands/web/ansible-test
   - commands/web/ansible-vault
-  - web-build/Dockerfile.ddev-ansible
 
 post_install_actions:
   - chmod +x ${DDEV_APPROOT}/.ddev/commands/web/ansible*
+  # Remove file from previous versions not used anymore.
+  - rm -f ${DDEV_APPROOT}/.ddev/web-build/Dockerfile.ddev-ansible
