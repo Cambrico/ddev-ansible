@@ -4,4 +4,4 @@
 ## Description: Run `ansible` inside the web container
 ## Usage: ansible [options]
 
-ansible-community "$@"
+ansible "$@"
